@@ -7,7 +7,6 @@ import csv
 from src.kinematic_model import robotKinematics
 from src.pybullet_debuger import pybulletDebug  
 from src.gaitPlanner import trotGait
-from src.sim_fb import systemStateEstimator
 
 
 def rendering(render):
@@ -78,7 +77,6 @@ if __name__ == '__main__':
     pybulletDebug = pybulletDebug()
     robotKinematics = robotKinematics()
     trot = trotGait()
-    meassure = systemStateEstimator(bodyId)
 
     """initial foot position"""
     #foot separation (Ydist = 0.16 -> theta =0) and distance to floor
