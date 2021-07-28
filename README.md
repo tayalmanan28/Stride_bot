@@ -4,7 +4,7 @@ This is a quadruped simulated on pybullet physics engine, walking using trot and
 
 ![image](https://user-images.githubusercontent.com/42448031/116126947-de769600-a6e4-11eb-9721-6cc1cfb5d5f5.png)
 
-<a href ="https://www.youtube.com/watch?v=3vZSDTzXrAk">Bound Mechanism</a> <a href="https://www.youtube.com/watch?v=FqQRJ7MsvTY"> Trot Mechanism</a>
+Video Links: <a href ="https://www.youtube.com/watch?v=3vZSDTzXrAk">Bound Mechanism</a>, <a href="https://www.youtube.com/watch?v=FqQRJ7MsvTY"> Trot Mechanism</a>
 
 Some of the commands to move are 
 F, H : Move right and left
