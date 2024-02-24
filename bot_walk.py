@@ -5,7 +5,7 @@ import pybullet_data
 import csv
 
 from src.kinematic_model import robotKinematics
-from src.pybullet_debuger import pybulletDebug  
+from src.pybullet_debugger import pybulletDebug  
 from src.gaitPlanner import trotGait
 
 
